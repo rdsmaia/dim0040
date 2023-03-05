@@ -11,7 +11,7 @@ conda activate dim0040
 ```
 ### Instalar pacotes necessários
 ```shell
-python -m pip install simpy matplotlib jupyter
+python -m pip install sympy matplotlib jupyter
 ```
 ## Execução do jupyter
 ```shell
